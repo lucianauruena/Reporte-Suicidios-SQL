@@ -19,13 +19,13 @@ Objetivos del Análisis:
 
 El análisis de datos tiene los siguientes objetivos principales:
 
-Analizar las tendencias generales de suicidios: Se buscará comprender cómo ha variado el número de suicidios en Argentina a lo largo de los años 2017 a 2020.
+- Analizar las tendencias generales de suicidios: Se buscará comprender cómo ha variado el número de suicidios en Argentina a lo largo de los años 2017 a 2020.
 
-Diferenciación por género: Se dividirá el análisis en víctimas femeninas y masculinas, con el fin de identificar cualquier diferencia significativa en las tasas de suicidio entre ambos grupos.
+- Diferenciación por género: Se dividirá el análisis en víctimas femeninas y masculinas, con el fin de identificar cualquier diferencia significativa en las tasas de suicidio entre ambos grupos.
 
-Modalidad de Suicidio: Se examinarán las modalidades de suicidio utilizadas.
+- Modalidad de Suicidio: Se examinarán las modalidades de suicidio utilizadas.
 
-Ubicación Geográfica: Se investigará si existen diferencias regionales en la incidencia de suicidios en Argentina.
+- Ubicación Geográfica: Se investigará si existen diferencias regionales en la incidencia de suicidios en Argentina.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -33,11 +33,11 @@ Herramientas Utilizadas
 
 Para llevar a cabo este análisis, se utilizaron las siguientes herramientas:
 
-SQL Server Management Studio 19 : Se utilizó SQL Server para la manipulación y limpieza de datos.
+- SQL Server Management Studio 19 : Se utilizó SQL Server para la manipulación y limpieza de datos.
 
-Power BI: Para la visualización de datos.
+- Power BI: Para la visualización de datos.
 
-Archivo: Integrado_SS_base_usuaria_2017-2020.csv
+- Archivo: Integrado_SS_base_usuaria_2017-2020.csv
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
